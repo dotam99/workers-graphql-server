@@ -6,7 +6,7 @@
   "author": "Kristian Freeman <kristian@bytesized.xyz>",
   "dependencies": {
     "apollo-datasource-rest": "^0.14.0",
-    "apollo-server-cloudflare": "^2.25.0",
+    "apollo-server-cloudflare": "^3.13.0",
     "graphql": "^14.2.1"
   },
   "license": "MIT",
